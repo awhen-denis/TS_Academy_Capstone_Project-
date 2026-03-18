@@ -20,9 +20,8 @@ Reading in dataset >>> statistical testing >>> model building >>> forecasting >>
 
 
 **DATASET**
-- Source: Kaggle
-  -https://www.kaggle.com/datasets/ddosad/dummy-truck-sales-for-time-series
-- Dataset:dummy Truck sales dataset; source:
+- Dataset:dummy Truck sales dataset
+- Source: Kaggle; https://www.kaggle.com/datasets/ddosad/dummy-truck-sales-for-time-series
 - type: Univariate 
 
 
