@@ -13,13 +13,10 @@ From raw time-series data → statistical testing → model building → forecas
 
 **OBJECTIVE**
 
-.Analyze historical truck sales data
-
-.Identify trends, seasonality, and patterns
-
-.Build and validate a SARIMA model
-
-.Forecast future truck sales with high accuracy
+- Analyze historical truck sales data
+- Identify trends, seasonality, and patterns
+- Build and validate a SARIMA model
+- Forecast future truck sales with high accuracy
 
 
 **DATASET**
@@ -33,9 +30,9 @@ type: Univariate
 
 **LIBRARIES**
 
-. Python 
-. Pandas
-. NumPy
-. Matplotlib & Seaborn
-. Statsmodels
-. Scikit-learn
+- Python
+- Pandas
+- NumPy
+- Matplotlib & Seaborn
+- Statsmodels
+- Scikit-learn
